@@ -28,3 +28,9 @@ npm i prisma-erd-generator -D @mermaid-js/mermaid-ci -D
 npx prisma generate
 
 npm i @fastify/cors
+
+npx prisma db seed
+
+npm i zod
+
+npm i short-unique-id
