@@ -1,0 +1,30 @@
+npm init -y
+
+npm i typescript -D
+
+npx tsc --init
+
+npm i fastify
+
+npm i tsx -D
+(package.json)
+"scripts": {
+    "dev": "tsx watch src/server.ts"
+},
+
+npm i prisma -D 
+
+npm i @prisma/client
+
+npx prisma init --datasource-provider SQLite
+
+npx prisma migrate dev
+name of migration
+
+npx prisma studio
+
+npm i prisma-erd-generator -D @mermaid-js/mermaid-ci -D
+
+npx prisma generate
+
+npm i @fastify/cors
