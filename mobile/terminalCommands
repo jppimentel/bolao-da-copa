@@ -11,3 +11,21 @@ npx expo install react-native-svg@12.1.1
 expo install react-native-safe-area-context@3.3.2
 
 npx expo install expo-font @expo-google-fonts/roboto
+
+npm i react-native-svg-transformer
+
+npx expo install expo-auth-session expo-random
+
+npx expo install expo-web-browser
+(criar scheme no app.json)
+(criar projeto no Google Cloud Console:
+  uri: https://auth.expo.io
+)
+criar conta no expo
+
+npx expo login
+expo whoami
+https://auth.expo.io/@jppimentel/mobile
+
+npm install --save phosphor-react-native
+
