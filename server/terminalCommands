@@ -34,3 +34,5 @@ npx prisma db seed
 npm i zod
 
 npm i short-unique-id
+
+npm i @fastify/jwt
