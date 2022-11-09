@@ -37,3 +37,13 @@ npm install @react-navigation/bottom-tabs
 
 npm i axios
 
+npm install country-list
+
+npm i --save-dev @types/country-list
+
+npm install --save react-native-country-flag
+
+npm install dayjs
+
+npm i dotenv babel-plugin-inline-dotenv
+
